@@ -1,0 +1,9 @@
+﻿{
+    "networkInterfaceName": { "value": "gab-demo-nic" },
+    "loadBalancerName": { "value": "gabdemoLB" },
+    "vmName": { "value": "gabd1" },
+    "vmSize": {"value": "Standard_A1"},
+    "virtualNetworkName": { "value": "gab2016demo1" },
+    "storageAccountName": { "value": "gab2016demo" },
+    "instanceCount": { "value": 4 }
+}
